@@ -10,7 +10,7 @@ This project demonstrates a proof of concept towards solving the challenge of pr
    ![object_detection](images/detection.png)
 2. Next is Object Tracking which associates a unique id to each crop and also keeps track of the number of crops on its path i.e crop counting.
 
-   ![object_tracking](images/tracking.png)
+   ![object_tracking](images/tracking_.png)
 
 3. and lastly take a snapshot of the detected crops for data collection and further examination by farmer
 
