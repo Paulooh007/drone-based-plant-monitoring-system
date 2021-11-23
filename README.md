@@ -18,7 +18,9 @@ This project demonstrates a proof of concept towards solving the challenge of pr
 
 3. and lastly take a snapshot of the detected crops for **data collection** and further examination by farmer
 
-   ![snapshot](images/snapshot.png)
+   <p align="center">
+<img src="https://github.com/Paulooh007/project_gifs/blob/main/2021-11-23%2015.20.07.gif" alt="Saved images gif" title="Saved images gif" width="500"/>
+</p>
 
 ## ⏳ Hardware.
 
