@@ -61,3 +61,5 @@ To prevent taking multiple snapshots of the same crops, a unique id has to be as
 [Obafemi Awolowo University Teaching and Research Farm](https://oaufarms.com/).
 
 ## Reference
+
+[The AI Guy's Object tracking implementation using Tensorflow](https://github.com/theAIGuysCode/yolov4-deepsort)
