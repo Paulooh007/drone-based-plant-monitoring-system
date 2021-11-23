@@ -2,7 +2,9 @@
 
 ![Header](images/header_github.png)
 
-![](https://github.com/Paulooh007/project_gifs/blob/main/2021-11-23%2015.23.29.gif)
+<p align="center">
+<img src="https://github.com/Paulooh007/project_gifs/blob/main/2021-11-23%2015.23.29.gif" alt="Demo gif" title="Demo gif" width="500"/>
+</p>
 
 # :memo: Description.
 
